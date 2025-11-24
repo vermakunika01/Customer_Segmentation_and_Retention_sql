@@ -18,7 +18,7 @@ The data is distributed across 3 tables in the 'data'  folder:
 - Sales: transaction-related details with (PK = order_key + product_key, FK1 = product_key, FK2 = customer_key)
 
 ## Problem-Solving Approach
-Data from customers, products, and orders tables was cleaned and analysed using SQL (CTEs, window functions, segmentation logic) to:
+Data from customers, products, and orders tables was cleaned and analysed using **PostgreSQL (CTEs, window functions, segmentation logic)** to:
 - Segment customers into four groups based on lifespan and engagement.
 - Identify key behavioural (order frequency, contribution to revenue) and product-level differences across segments.
 - Evaluate of retention patterns.
