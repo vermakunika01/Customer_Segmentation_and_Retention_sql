@@ -1,6 +1,4 @@
 # Customer Segmentation & Retention Analysis
-
-## Business Context
 Company ABC is an e-commerce retailer specializing in catering to customers across multiple countries and product lines (Bikes, Accessories, and Clothing). The leadership team wanted to understand which customer segments drive the most value, how their engagement behaviours differ, and where opportunities exist to expand business and improve retention.
 
 ## Expected Outcome 
