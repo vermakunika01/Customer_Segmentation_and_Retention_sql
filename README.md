@@ -21,7 +21,12 @@ The data is distributed across 3 tables in the 'data'  folder:
 Data from customers, products, and orders tables was cleaned and analysed using SQL (CTEs, window functions, segmentation logic) to:
 - Segment customers into four groups based on lifespan and engagement.
 - Identify key behavioural (order frequency, contribution to revenue) and product-level differences across segments.
-- Evaluate of retention patterns. 
+- Evaluate of retention patterns.
+
+## Key Skills Demonstrated
+- Translating raw transaction data into actionable business insights.
+- Applying segmentation and churn analysis for strategic decision-making.
+- Balancing analytical rigor with executive-level storytelling.
 
 ## Author & Contact 
 Kunika Verma
